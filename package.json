@@ -2,7 +2,7 @@
   "name": "pct-hiking-app",
   "version": "1.0.0",
   "description": "A Pacific Crest Trail app for my 2021 thru hike.",
-  "repository": "https://github.com/Esri/hiking-trail-app",
+  "repository": "https://github.com/michaeltrop/PCT_App",
   "scripts": {
     "build": "vite build",
     "start": "vite",
